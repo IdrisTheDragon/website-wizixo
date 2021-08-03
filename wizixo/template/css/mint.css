@@ -12,3 +12,21 @@
     left: unset;
   }
 }
+
+.mint-circle-size {
+  width: 100px;
+  height: 100px;
+
+}
+
+.bg-mint-primary {
+  background-color: #86be43;
+}
+
+.bg-mint-dark {
+  background-color: #000000;
+}
+
+.bg-mint-light {
+  background-color: #ffffff;
+}
